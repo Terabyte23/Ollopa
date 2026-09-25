@@ -8,3 +8,9 @@
 ### 5. Kasutaja isiklik konto
 ### 6. Tellimuste staatuse süsteem
 ### 7. Reaalajas tellimuste haldamine
+
+## Milliseid tööriistu kasutatakse?
+## React + Vite
+## TypeScript
+## Tailwind CSS
+## Node.js
