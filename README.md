@@ -1,1 +1,1 @@
-# Ollopa - toiduauto restorani veebisait
+# Ollopa - toiduauto restorani veebirakendus
